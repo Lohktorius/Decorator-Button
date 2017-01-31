@@ -2,7 +2,7 @@
 
 Le but de l'exercice était de mettre en place le pattern Décorateur (ou Decorator pattern) sur un Bouton.
 
-Mettre en place une interface graphique avec :
+Interface graphique avec :
 
 Un bouton étant modifié par les autres boutons.
 
